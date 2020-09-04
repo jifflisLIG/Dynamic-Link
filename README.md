@@ -1,5 +1,7 @@
-# Dynamic-Link
+# Dynamic-Link (Flutter App)
 It's a demonstration project on how to Integrate Firebase Dynamic Link into  your app.
+
+for more information about Dynamic Link Visit https://firebase.google.com/docs/dynamic-links
 
 
 **Tips on how to test**
