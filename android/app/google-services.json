@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1090281229504",
+    "firebase_url": "https://dynamic-link-ce223.firebaseio.com",
+    "project_id": "dynamic-link-ce223",
+    "storage_bucket": "dynamic-link-ce223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090281229504:android:e820e3a7b53d93167db125",
+        "android_client_info": {
+          "package_name": "com.cody.dynamic_link"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090281229504-ed3fd1fg56hb6qc6uc62k7cov6e3gvim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4uEx4CTd_1v0a54urmt_rFSHPCUd6jcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090281229504-ed3fd1fg56hb6qc6uc62k7cov6e3gvim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
